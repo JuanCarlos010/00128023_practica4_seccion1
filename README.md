@@ -1,0 +1,3 @@
+Analicemos ¿Qué ocurre en cada caso presentado anteriormente con los operadores y porqué JS me permite esto? R/ Al parecer js lleva un orden matematico correcto y tiene cierta libertad al momento de agregar o eliminar una cifra
+
+Analicemos ¿El comportamiento de los flujos de control es similar a otros lenguajes y ambientes de desarrollo? R/tal parece que al momento de comparar con "==" compara el contenido, y con "===" compara el tipo de dato para ver si son iguales o no, por lo que en ese aspecto es diferentes a otros lenguajes (refiriendome a java y c++), pero ya con el contenido de la estructura del condicional ahi si es igual
